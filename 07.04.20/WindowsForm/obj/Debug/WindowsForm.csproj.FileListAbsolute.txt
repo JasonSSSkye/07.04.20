@@ -1,0 +1,30 @@
+C:\Users\vadim\source\repos\Заявление\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\vadim\source\repos\Заявление\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\vadim\source\repos\Заявление\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\vadim\source\repos\Заявление\WindowsForm\obj\Debug\WindowsForm.csprojAssemblyReference.cache
+C:\Users\vadim\source\repos\Заявление\WindowsForm\obj\Debug\WindowsForm.csproj.ResolveComReference.cache
+C:\Users\vadim\source\repos\Заявление\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\vadim\source\repos\Заявление\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\vadim\source\repos\Заявление\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\Заявление\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\vadim\source\repos\Заявление\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.csprojAssemblyReference.cache
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.csproj.ResolveComReference.cache
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Jason Moon\Desktop\Новая папка (2)\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.csprojAssemblyReference.cache
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.csproj.ResolveComReference.cache
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.Statement.resources

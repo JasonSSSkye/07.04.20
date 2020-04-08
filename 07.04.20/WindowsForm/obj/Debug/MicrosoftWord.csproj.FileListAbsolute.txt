@@ -1,0 +1,10 @@
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\MicrosoftWord.csproj.ResolveComReference.cache
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\MicrosoftWord.csproj.GenerateResource.cache
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\MicrosoftWord.csprojAssemblyReference.cache
+C:\Users\Jason Moon\Desktop\Заявление (2)\WindowsForm\obj\Debug\WindowsForm.Statement.resources
